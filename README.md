@@ -8,6 +8,6 @@ Parade postponed as a nor'easter bears down on New York.
 `main.py` (Python 3.13, standard library only) validates `entry.png`
 (1024×1024, under 1 MiB) and writes an exact copy to the output directory.
 
-![news-image-20261126](https://make.fun/badge/news-image-20261126.svg)
-![rank](https://make.fun/badge/news-image-20261126/RockyGoon/news-image-20261126/rank.svg)
-![reward](https://make.fun/badge/news-image-20261126/RockyGoon/news-image-20261126/reward.svg)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/RockyGoon/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/RockyGoon/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
